@@ -33,6 +33,7 @@ class FizzBuzz {
 //            }
 //        }
         int i = 0;
+        int x = 10;
         while(i < 100){
             i = doFizzBuzz(i);
         }
