@@ -1,5 +1,5 @@
 package lab1;
-
+//test
 /**
  * Solve the lab1.FizzBuzz challenge.
  */
