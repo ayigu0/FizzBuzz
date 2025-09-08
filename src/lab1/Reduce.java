@@ -17,6 +17,5 @@ public class Reduce {
         }
         return result + 1;
     }
-    //good job on using the recursion! you are a fking genius!
 
 }
