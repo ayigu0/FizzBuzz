@@ -1,5 +1,5 @@
 package lab1;
-//test
+//test 14:24!!!!!!
 /**
  * Solve the lab1.FizzBuzz challenge.
  */
