@@ -17,4 +17,6 @@ public class Reduce {
         }
         return result + 1;
     }
+
+
 }
