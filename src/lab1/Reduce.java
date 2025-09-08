@@ -6,6 +6,15 @@ public class Reduce {
     }
 
     public static int reduce(int n){
-
+        int result = 0;
+        if(n == 0){
+            return result;
+        }
+        else if(n % 2 == 0){
+            result = reduce(n / 2);
+        } else{
+            result = reduce(n - 1);
+        }
+        return result + 1;
     }
 }
