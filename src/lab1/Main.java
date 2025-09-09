@@ -5,4 +5,7 @@ public class Main {
     //token test good token
     }
 
+    public static int step(){
+        return 10
+    }
 }
