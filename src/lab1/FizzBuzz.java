@@ -1,5 +1,5 @@
 package lab1;
-//test tokens
+// test for pull from git
 /**
  * Solve the lab1.FizzBuzz challenge.
  */
