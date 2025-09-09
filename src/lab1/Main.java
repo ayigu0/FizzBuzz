@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static int step(){
-        return 2203;
+        return 2205;
     }
 }
