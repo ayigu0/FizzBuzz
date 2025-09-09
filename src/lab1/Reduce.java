@@ -17,5 +17,20 @@ public class Reduce {
         }
         return result + 1;
     }
+    public static int reduce1(int n){
+        int count = 0;
+        int temp = n;
+        while(true){
+            if(temp == 0){
+                return count;
+            } else if (temp % 2 == 0) {
+                temp /= 2;
+                count++;
+            }else {
+                temp -= 1;
+                count++;
+            }
+        }
+    }
 
 }
