@@ -1,5 +1,5 @@
 package lab1;
-//test 17:09!!!!!!
+//test tokens
 /**
  * Solve the lab1.FizzBuzz challenge.
  */
