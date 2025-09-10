@@ -8,4 +8,10 @@ public class Main {
     public static int step(){
         return 2205;
     }
+
+    private void loop(int[] arr){
+        for (int i : arr) {
+            System.out.println(i);
+        }
+    }
 }
